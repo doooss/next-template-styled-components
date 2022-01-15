@@ -35,10 +35,40 @@ const globalStyle = css`
   * {
     box-sizing: border-box;
   }
+  html {
+    font-size: 24px;
+  }
   a {
     text-decoration: none;
     color: black;
     font-weight: 700;
+  }
+  h1 {
+    font-size: 2rem;
+  }
+  h2 {
+    font-size: 1.5rem;
+  }
+  h3 {
+    font-size: 1.17rem;
+  }
+  h4 {
+    font-size: 1rem;
+  }
+  h5 {
+    font-size: 0.83rem;
+  }
+  h6 {
+    font-size: 0.67rem;
+  }
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6,
+  p {
+    line-height: 160%;
   }
 `;
 
