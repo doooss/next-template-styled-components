@@ -4,7 +4,17 @@ MUI Emotion js 설정
 
 Globalstyle, custom theme 즉시 적용하기 쉽게 세팅해놓음.
 
-Globalstyle
+
+### Installation
+
+```bash
+  git clone -b mui --single-branch https://github.com/ldy9212/nextjs-template.git
+  cd nextjs-template
+  npm i
+```
+
+
+### Globalstyle
 
 ```css
 
