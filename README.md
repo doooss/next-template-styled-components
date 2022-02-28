@@ -8,7 +8,7 @@ Globalstyle, custom theme 즉시 적용하기 쉽게 세팅해놓음.
 ### Installation
 
 ```bash
-  git clone -b mui --single-branch https://github.com/ldy9212/nextjs-template.git
+  git clone -b mui --single-branch https://github.com/ldy9212/template.git
   cd nextjs-template
   npm i
 ```
