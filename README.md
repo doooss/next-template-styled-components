@@ -1,8 +1,14 @@
-# 2022-01월 Next.js 템플릿
+# 2022-03월 Next.js 템플릿
 
 prettier, eslint, styled-components 설정
 
 Google Font Noto Sans(한국어 범위), Roboto(영어 범위) 
+
+### Installation
+
+```bash
+$ git clone https://github.com/ldy9212/template
+```
 
 
 ### 전역 스타일
