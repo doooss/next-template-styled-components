@@ -1,8 +1,8 @@
-# 2022-03월 Next.js 템플릿
+# 2022-03 Next.js basic template
 
-prettier, eslint, styled-components 설정
+this template is my custom template based on create next app, eslint, prettier
 
-Google Font Noto Sans(한국어 범위), Roboto(영어 범위) 
+each branch is configured with its own settings
 
 ### Installation
 
@@ -10,46 +10,11 @@ Google Font Noto Sans(한국어 범위), Roboto(영어 범위)
 $ git clone https://github.com/ldy9212/template
 ```
 
+### Main Branch
 
-### 전역 스타일
+Main branch's setting is prettier + eslint + styled-components + fonts
 
-```css
- * {
-    box-sizing: border-box;
-  }
-  html {
-    font-size: 24px;
-  }
-  a {
-    text-decoration: none;
-    color: black;
-    font-weight: 700;
-  }
-  h1 {
-    font-size: 2rem;
-  }
-  h2 {
-    font-size: 1.5rem;
-  }
-  h3 {
-    font-size: 1.17rem;
-  }
-  h4 {
-    font-size: 1rem;
-  }
-  h5 {
-    font-size: 0.83rem;
-  }
-  h6 {
-    font-size: 0.67rem;
-  }
-  h1,
-  h2,
-  h3,
-  h4,
-  h5,
-  h6,
-  p {
-    line-height: 160%;
-  }
-```
+fonts 
+- Roboto (English + Special Characters)
+- Google Font Noto Sans (Korean)  
+
