@@ -24,7 +24,7 @@ module.exports = {
     'react/prop-types': 'off',
     'no-unused-vars': 'warn',
     'no-unused-expressions': 'warn',
-    'react/self-closing-comp': 'wran',
+    'react/self-closing-comp': 'warn',
   },
   settings: {
     react: {
