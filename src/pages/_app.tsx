@@ -1,8 +1,9 @@
+import 'src/styles/fonts.css';
+
 import type { AppProps } from 'next/app';
-import { ThemeProvider } from 'styled-components';
 import GlobalStyle from 'src/styles/GlobalStyle';
 import pallete from 'src/styles/pallete';
-import 'src/styles/fonts.css'
+import { ThemeProvider } from 'styled-components';
 
 function MyApp({ Component, pageProps }: AppProps) {
   return (
